@@ -1,0 +1,251 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "links": {
+    "self": {
+      "href": "http://fldcvdsla13707.wdw.disney.com:8005/content-service/environments/live/pages/tcm:286-124382-64"
+    }
+  },
+  "descriptions": {
+    "refurbishmentOverviewModal": {
+      "id": "",
+      "type": "webDescription",
+      "sections": {
+        "header": "Pardon Our Pixie Dust",
+        "body": "Disney’s Vero Beach Resort is currently undergoing refurbishment through early 2017. From late January to early February 2017, the Vero Beach Feature Pool and the Pirate’s Plunge Pool Slide will also be closed for refurbishment. The Tiger Lily Wet Play Area will remain available for your enjoyment—as well as access to our beautiful, sandy beaches.<p>It is possible that you may see and hear construction. To minimize any disruptions, we will attempt to limit work to 9:00 AM through 5:00 PM. We are committed to providing you with an enjoyable vacation, and we apologize in advance for any inconvenience these refurbishments may cause.</p>"
+      },
+      "media": {},
+      "text": ""
+    },
+    "refurbishmentOverviewDescription": {
+      "id": "",
+      "type": "webDescription",
+      "sections": {
+        "body": "This Resort is undergoing refurbishments."
+      },
+      "media": {},
+      "descriptionTemplate": {
+        "id": "entity-card-body-only-no-br",
+        "content": "{{body}}",
+        "links": {
+          "self": {
+            "href": ""
+          }
+        }
+      },
+      "links": {
+        "descriptionTemplate": {
+          "href": ""
+        }
+      },
+      "text": "This Resort is undergoing refurbishments."
+    },
+    "overviewShortDescription": {
+      "id": "",
+      "type": "webDescription",
+      "sections": {
+        "body": "Relax on warm sand and play in the sparkling blue waters of Disney’s Vero Beach Resort. Just 2 hours southeast of Walt Disney World Resort, this elegant old-fashioned hideaway is located on Florida’s scenic Atlantic Treasure Coast near the charming community of Vero Beach. Get away from it all in spacious lodgings that provide the comforts of home with an idyllic beach practically at your doorstep..."
+      },
+      "media": {},
+      "descriptionTemplate": {
+        "id": "entity-card-body-only",
+        "content": "{{body}} <br/>",
+        "links": {
+          "self": {
+            "href": ""
+          }
+        }
+      },
+      "links": {
+        "descriptionTemplate": {
+          "href": ""
+        }
+      },
+      "text": "Relax on warm sand and play in the sparkling blue waters of Disney’s Vero Beach Resort. Just 2 hours southeast of Walt Disney World Resort, this elegant old-fashioned hideaway is located on Florida’s scenic Atlantic Treasure Coast near the charming community of Vero Beach. Get away from it all in spacious lodgings that provide the comforts of home with an idyllic beach practically at your doorstep... <br/>"
+    },
+    "overviewCard1": {
+      "id": "",
+      "type": "webDescription",
+      "sections": {
+        "header": "Atlantic Treasure Coast...",
+        "readMore": "The Vero Beach area offers activities that can satisfy everyone’s interests.",
+        "readAll": "Fun on the beach -  The Vero Beach area offers activities that can satisfy everyone’s interests.<span style=\"color: rgb(69, 69, 69); font-family: Helvetica; font-size: 12px;\"> </span>Enjoy top Florida golf courses and a wide variety of shopping, from elegant boutiques to some of your favorite outlet stores. Nature lovers can indulge in miles of unspoiled beaches and the wonders of a nearby state park, botanical garden and river preserve. The Indian River Lagoon is home to 36 rare and endangered species, one-third of the U.S. manatee population and an unusual mix of flora, from ancient oak trees to swaying palms.-new"
+      },
+      "media": {
+        "media1": {
+          "transcodeTemplate": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/75/wdpromedia.disney.go.com/media/wdpro-assets/beach-resorts/vero-beach-resort/vero-beach-recreation/sea-turtle-conservation/sea-turtle-conservation-outing-00-sq.jpg?1495735729565",
+          "url": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/75/wdpromedia.disney.go.com/media/wdpro-assets/beach-resorts/vero-beach-resort/vero-beach-recreation/sea-turtle-conservation/sea-turtle-conservation-outing-00-sq.jpg?1495735729565",
+          "alt": "",
+          "title": "",
+          "type": "jpg"
+        }
+      },
+      "descriptionTemplate": {
+        "id": "entity-card-header-read-more-all-media",
+        "content": "<div class=\"htmlContainer heroBlock\" data-cmsid=\"{{parameters}}\"> <img src=\"{{media1.uri}}\" alt=\"{{media1.alt}}\"/> <div class=\"heroRight\"> <h3>{{header}}</h3> <div class=\"heroData\" data-widget=\"readMoreLink\" data-readmoretranslation=\"Read More\" data-readlesstranslation=\"Show Less\" data-maxlength=\"240\"> <p>{{readAll}}</p> </div> </div></div>",
+        "links": {
+          "self": {
+            "href": ""
+          }
+        }
+      },
+      "links": {
+        "descriptionTemplate": {
+          "href": ""
+        }
+      },
+      "text": "<div class=\"htmlContainer heroBlock\" data-cmsid=\"\"> <img src=\"https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/75/wdpromedia.disney.go.com/media/wdpro-assets/beach-resorts/vero-beach-resort/vero-beach-recreation/sea-turtle-conservation/sea-turtle-conservation-outing-00-sq.jpg?1495735729565\" alt=\"\"/> <div class=\"heroRight\"> <h3>Atlantic Treasure Coast...</h3> <div class=\"heroData\" data-widget=\"readMoreLink\" data-readmoretranslation=\"Read More\" data-readlesstranslation=\"Show Less\" data-maxlength=\"240\"> <p>Fun on the beach -  The Vero Beach area offers activities that can satisfy everyone’s interests.<span style=\"color: rgb(69, 69, 69); font-family: Helvetica; font-size: 12px;\"> </span>Enjoy top Florida golf courses and a wide variety of shopping, from elegant boutiques to some of your favorite outlet stores. Nature lovers can indulge in miles of unspoiled beaches and the wonders of a nearby state park, botanical garden and river preserve. The Indian River Lagoon is home to 36 rare and endangered species, one-third of the U.S. manatee population and an unusual mix of flora, from ancient oak trees to swaying palms.-new</p> </div> </div></div>"
+    },
+
+      "descriptionTemplate": {
+        "id": "entity-card-header-read-more-all-media",
+        "content": "<div class=\"htmlContainer heroBlock\" data-cmsid=\"{{parameters}}\"> <img src=\"{{media1.uri}}\" alt=\"{{media1.alt}}\"/> <div class=\"heroRight\"> <h3>{{header}}</h3> <div class=\"heroData\" data-widget=\"readMoreLink\" data-readmoretranslation=\"Read More\" data-readlesstranslation=\"Show Less\" data-maxlength=\"240\"> <p>{{readAll}}</p> </div> </div></div>",
+        "links": {
+          "self": {
+            "href": ""
+          }
+        }
+      },
+      "links": {
+        "descriptionTemplate": {
+          "href": ""
+        }
+      },
+      "text": "<div class=\"htmlContainer heroBlock\" data-cmsid=\"\"> <img src=\"https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/75/wdpromedia.disney.go.com/media/wdpro-assets/beach-resorts/vero-beach-resort/vero-beach-recreation/sea-turtle-conservation/sea-turtle-conservation-outing-00-sq.jpg?1495735729566\" alt=\"\"/> <div class=\"heroRight\"> <h3>Sea Turtle Nesting Grounds..</h3> <div class=\"heroData\" data-widget=\"readMoreLink\" data-readmoretranslation=\"Read More\" data-readlesstranslation=\"Show Less\" data-maxlength=\"240\"> <p>I love turtles!!! Our resort shares space with the nesting grounds of the Loggerhead Sea Turtle. The Florida coast is their primary nesting area in the northern hemisphere. In keeping with founder Walt Disney’s conservation legacy, the beachfront resort was specifically designed to create minimal impact on the turtles’ nesting patterns. Each year, moonlight acts as a beacon to guide the hatchlings safely to the ocean, so the resort’s east-facing windows are tinted to diminish the impact of interior lighting, and no exterior lights face the ocean.</p> </div> </div></div>"
+    },
+    "overviewCard3": {
+      "id": "",
+      "type": "webDescription",
+      "sections": {
+        "header": "The Spa at Disney's Vero Beach Resort",
+        "buttonCardBody": "Unwind with a visit to our soothing spa, and treat yourself to a full menu of rejuvenating massages and eco-friendly treatments."
+      },
+      "media": {
+        "media1": {
+          "transcodeTemplate": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/75/wdpromedia.disney.go.com/media/wdpro-assets/beach-resorts/vero-beach-resort/vero-beach-recreation/spa/spa-00-sq.jpg?1495735729566",
+          "url": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/640/360/75/wdpromedia.disney.go.com/media/wdpro-assets/beach-resorts/vero-beach-resort/vero-beach-recreation/spa/spa-00-sq.jpg?1495735729566",
+          "alt": "Woman on a massage table having warm stones applied to her back",
+          "title": "",
+          "type": "jpg"
+        }
+      },
+      "link": "https://verobeach.disney.go.com/recreation/spa/",
+      "title": "/recreation/spa/",
+      "descriptionTemplate": {
+        "id": "entity-button-card-header-body-media-link",
+        "content": "<a class=\"htmlContentBlock heroCopyButtonContainer3\" href=\"{{link.uri}}\" data-cmsid=\"{{parameters}}\"> <div class=\"heroButtonWrapper\"> <div class=\"htmlContainer\"> <img class=\"heroCopyButtonImage\" src=\"{{media1.uri}}\" alt=\"{{media1.alt}}\"/> <div class=\"heroCopyButtonContent\"> <h3>{{buttonCardHeader}}</h3> <p>{{buttonCardBody}}</p> </div> </div> <div class=\"arrow\"></div> </div></a>",
+        "links": {
+          "self": {
+            "href": ""
+          }
+        }
+      },
+      "links": {
+        "descriptionTemplate": {
+          "href": ""
+        }
+      },
+      "text": "<a class=\"htmlContentBlock heroCopyButtonContainer3\" href=\"https://verobeach.disney.go.com/recreation/spa/\" data-cmsid=\"\"> <div class=\"heroButtonWrapper\"> <div class=\"htmlContainer\"> <img class=\"heroCopyButtonImage\" src=\"https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/640/360/75/wdpromedia.disney.go.com/media/wdpro-assets/beach-resorts/vero-beach-resort/vero-beach-recreation/spa/spa-00-sq.jpg?1495735729566\" alt=\"Woman on a massage table having warm stones applied to her back\"/> <div class=\"heroCopyButtonContent\"> <h3></h3> <p>Unwind with a visit to our soothing spa, and treat yourself to a full menu of rejuvenating massages and eco-friendly treatments.</p> </div> </div> <div class=\"arrow\"></div> </div></a>"
+    },
+    "overviewCard4": {
+      "id": "",
+      "type": "webDescription",
+      "sections": {
+        "header": "Supervised Children's Activity Center",
+        "buttonCardBody": "Children ages 4 to 12 can discover, create and explore in Disney Discovery Club. This 3-hour supervised evening program includes imaginative arts and crafts, exciting sports activities, games, movies and even dinner."
+      },
+      "media": {
+        "media1": {
+          "transcodeTemplate": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/75/wdpromedia.disney.go.com/media/wdpro-assets/beach-resorts/vero-beach-resort/vero-beach-recreation/activity-programs-kids-teens/activity-programs-for-kids-teens-01.jpg?1495735729568",
+          "url": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/43/43/75/wdpromedia.disney.go.com/media/wdpro-assets/beach-resorts/vero-beach-resort/vero-beach-recreation/activity-programs-kids-teens/activity-programs-for-kids-teens-01.jpg?1495735729568",
+          "alt": "",
+          "title": "",
+          "type": "jpg"
+        }
+      },
+      "descriptionTemplate": {
+        "id": "entity-button-card-header-body-media-link",
+        "content": "<a class=\"htmlContentBlock heroCopyButtonContainer3\" href=\"{{link.uri}}\" data-cmsid=\"{{parameters}}\"> <div class=\"heroButtonWrapper\"> <div class=\"htmlContainer\"> <img class=\"heroCopyButtonImage\" src=\"{{media1.uri}}\" alt=\"{{media1.alt}}\"/> <div class=\"heroCopyButtonContent\"> <h3>{{buttonCardHeader}}</h3> <p>{{buttonCardBody}}</p> </div> </div> <div class=\"arrow\"></div> </div></a>",
+        "links": {
+          "self": {
+            "href": ""
+          }
+        }
+      },
+      "links": {
+        "descriptionTemplate": {
+          "href": ""
+        }
+      },
+      "text": "<a class=\"htmlContentBlock heroCopyButtonContainer3\" href=\"\" data-cmsid=\"\"> <div class=\"heroButtonWrapper\"> <div class=\"htmlContainer\"> <img class=\"heroCopyButtonImage\" src=\"https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/43/43/75/wdpromedia.disney.go.com/media/wdpro-assets/beach-resorts/vero-beach-resort/vero-beach-recreation/activity-programs-kids-teens/activity-programs-for-kids-teens-01.jpg?1495735729568\" alt=\"\"/> <div class=\"heroCopyButtonContent\"> <h3></h3> <p>Children ages 4 to 12 can discover, create and explore in Disney Discovery Club. This 3-hour supervised evening program includes imaginative arts and crafts, exciting sports activities, games, movies and even dinner.</p> </div> </div> <div class=\"arrow\"></div> </div></a>"
+    },
+    "overviewCard5": {
+      "id": "",
+      "type": "webDescription",
+      "sections": {
+        "header": "This is a checkbook...",
+        "readMore": "This is a short description.",
+        "readAll": "This is a long description. I wonder how it will translate."
+      },
+      "media": {
+        "media1": {
+          "transcodeTemplate": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/75/wdpromedia.disney.go.com/media/wdpro-assets/beach-resorts/vero-beach-resort/vero-beach-recreation/fishing-fundamentals/fishing-fundamentals-02-sq.jpg?1495735729568",
+          "url": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/75/wdpromedia.disney.go.com/media/wdpro-assets/beach-resorts/vero-beach-resort/vero-beach-recreation/fishing-fundamentals/fishing-fundamentals-02-sq.jpg?1495735729568",
+          "alt": "",
+          "title": "",
+          "type": "jpg"
+        }
+      },
+      "descriptionTemplate": {
+        "id": "entity-card-header-read-more-all-media",
+        "content": "<div class=\"htmlContainer heroBlock\" data-cmsid=\"{{parameters}}\"> <img src=\"{{media1.uri}}\" alt=\"{{media1.alt}}\"/> <div class=\"heroRight\"> <h3>{{header}}</h3> <div class=\"heroData\" data-widget=\"readMoreLink\" data-readmoretranslation=\"Read More\" data-readlesstranslation=\"Show Less\" data-maxlength=\"240\"> <p>{{readAll}}</p> </div> </div></div>",
+        "links": {
+          "self": {
+            "href": ""
+          }
+        }
+      },
+      "links": {
+        "descriptionTemplate": {
+          "href": ""
+        }
+      },
+      "text": "<div class=\"htmlContainer heroBlock\" data-cmsid=\"\"> <img src=\"https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/75/wdpromedia.disney.go.com/media/wdpro-assets/beach-resorts/vero-beach-resort/vero-beach-recreation/fishing-fundamentals/fishing-fundamentals-02-sq.jpg?1495735729568\" alt=\"\"/> <div class=\"heroRight\"> <h3>This is a checkbook...</h3> <div class=\"heroData\" data-widget=\"readMoreLink\" data-readmoretranslation=\"Read More\" data-readlesstranslation=\"Show Less\" data-maxlength=\"240\"> <p>This is a long description. I wonder how it will translate.</p> </div> </div></div>"
+    },
+    "shortDescription": {
+      "id": "",
+      "type": "webDescription",
+      "sections": {
+        "buttonCardBody": "Listen to the soothing sounds of ocean surf and bask in old-fashioned elegance at Disney's Vero Beach Resort."
+      },
+      "media": {},
+      "descriptionTemplate": {
+        "id": "entity-card-body-only",
+        "content": "{{body}} <br/>",
+        "links": {
+          "self": {
+            "href": ""
+          }
+        }
+      },
+      "links": {
+        "descriptionTemplate": {
+          "href": ""
+        }
+      },
+      "text": " <br/>"
+    }
+  },
+  "media": {},
+  "webLinks": {},
+  "alternateIdentifiers": {},
+  "facets": {},
+  "flags": {},
+  "generalPurposeStrings": {},
+  "generalPurposeIntegers": {},
+  "affiliation": [],
+  "keywords": "",
+  "name": "",
+  "displayName": "",
+  "quickLink": false
+
+}

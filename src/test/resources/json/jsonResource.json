@@ -1,0 +1,225 @@
+{ 
+"flags": {},
+  "generalPurposeIntegers": {},
+  "generalPurposeStrings": {},
+  "affiliation": [],
+  "webLinks": {
+    "dlrDetails": {
+      "href": "https://disneyland.disney.go.com/attractions/disneyland/alice-in-wonderland/",
+      "analyticsLinkId": "",
+      "analyticsTrackPromoImpressions": false
+    }
+  },
+  "descriptions": {
+    "shortDescription": {
+      "sections": {
+        "body": "Explore the curiously wondrous world of Walt Disney's animated classic <em>Alice in Wonderland</em> aboard an oversized Caterpillar!"
+      },
+      "media": {},
+      "descriptionTemplate": {
+        "id": "entity-card-body-only",
+        "content": "{{body}}<br/>",
+        "links": {
+          "self": {
+            "href": "http://api-qa.wdpro.disney.go.com:48084/content-service/environments/preview/description-templates/entity-card-body-only"
+          }
+        }
+      },
+      "id": "",
+      "type": "webDescription",
+      "text": "Explore the curiously wondrous world of Walt Disney's animated classic <em>Alice in Wonderland</em> aboard an oversized Caterpillar!<br/>",
+      "links": {
+        "descriptionTemplate": {
+          "href": "http://api-qa.wdpro.disney.go.com:48084/content-service/environments/preview/description-templates/entity-card-body-only"
+        }
+      }
+    },
+    "shortDescriptionMobile": {
+      "sections": {
+        "body": "Explore the curiously wondrous world of Walt Disney's animated classic <em>Alice in Wonderland</em> aboard an oversized Caterpillar!  <p><strong>Know Before You Go</strong></p>  <p>Alice in Wonderland may close intermittently to accommodate fireworks performances.</p>"
+      },
+      "media": {},
+      "descriptionTemplate": {
+        "id": "entity-card-card-body-only-no-br",
+        "content": "{{body}}",
+        "links": {
+          "self": {
+            "href": "http://api-qa.wdpro.disney.go.com:48084/content-service/environments/preview/description-templates/entity-card-card-body-only-no-br"
+          }
+        }
+      },
+      "id": "",
+      "type": "mobileDescription",
+      "text": "Explore the curiously wondrous world of Walt Disney's animated classic <em>Alice in Wonderland</em> aboard an oversized Caterpillar!  <p><strong>Know Before You Go</strong></p>  <p>Alice in Wonderland may close intermittently to accommodate fireworks performances.</p>",
+      "links": {
+        "descriptionTemplate": {
+          "href": "http://api-qa.wdpro.disney.go.com:48084/content-service/environments/preview/description-templates/entity-card-card-body-only-no-br"
+        }
+      }
+    },
+    "entityCard1": {
+      "sections": {
+        "header": "Don't Be Late, Your Adventure Awaits",
+        "readMore": "Journey down an enchanted rabbit hole into the topsy-turvy realm of Wonderland.",
+        "readAll": "Journey down an enchanted rabbit hole into the topsy-turvy realm of Wonderland. Hop atop a king-sized Caterpillar and follow the White Rabbit into the nonsensical realm made famous in the beloved animated movie.  <p><strong>Down, Down, Down!</strong> <br/> Wind your way along a curving path surrounded by surreal sights, dazzling colors and madcap music as you retrace the steps of Alice and her adventures in Wonderland. Coast through wacky places like White Rabbit's House, Tulgey Wood and the Queen's Garden, and encounter such zany inhabitants as:</p>  <ul> <li>The Mad Hatter</li> <li>The March Hare</li> <li>Tweedledee and Tweedledum</li> <li>The Cheshire Cat</li> <li>A Talking Doorknob</li> <li>A garden of singing flowers featuring a Rocking-Horsefly, Tiger Lilly and Dandy-Lion</li> </ul>  <p>Down and down you go, until you come face-to-face with the dreaded Queen of Hearts. Vexed by a game of croquet, she proclaims, \"Off with their heads!\" but as you try to leave, the Queen's bumbling army of playing cards blocks your way. </p>  <p>Can you escape in time for a very 'unbirthday party' where you're the guest of honor?</p>"
+      },
+      "media": {
+        "media1": {
+          "alt": "The angry Queen of Hearts exclaims, Off with their heads!",
+          "transcodeTemplate": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/attractions/disneyland/alice-in-wonderland/alice-in-wonderland-01.jpg?18042013045655",
+          "url": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/attractions/disneyland/alice-in-wonderland/alice-in-wonderland-01.jpg?18042013045655",
+          "title": "Alice in Wonderland",
+          "type": "jpg"
+        }
+      },
+      "descriptionTemplate": {
+        "id": "entity-card-1",
+        "content": "<div class=\"htmlContainer heroBlock\" data-cmsid=\"{{parameters}}\">\n    <img src=\"{{media1.uri}}\" alt=\"{{media1.alt}}\"/>\n    <div class=\"heroRight\">\n        <h3>{{header}}</h3>\n        <div class=\"heroData\" data-widget=\"readMoreLink\" data-readmoretranslation=\"Read More\" data-readlesstranslation=\"Show Less\" data-maxlength=\"240\">\n            <p>{{readAll}}</p>\n        </div>\n    </div>\n</div>",
+        "links": {
+          "self": {
+            "href": "http://api-qa.wdpro.disney.go.com:48084/content-service/environments/preview/description-templates/entity-card-1"
+          }
+        }
+      },
+      "id": "",
+      "type": "webDescription",
+      "text": "<div class=\"htmlContainer heroBlock\" data-cmsid=\"\">\n    <img src=\"https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/attractions/disneyland/alice-in-wonderland/alice-in-wonderland-01.jpg?18042013045655\" alt=\"The angry Queen of Hearts exclaims, Off with their heads!\"/>\n    <div class=\"heroRight\">\n        <h3>Don't Be Late, Your Adventure Awaits</h3>\n        <div class=\"heroData\" data-widget=\"readMoreLink\" data-readmoretranslation=\"Read More\" data-readlesstranslation=\"Show Less\" data-maxlength=\"240\">\n            <p>Journey down an enchanted rabbit hole into the topsy-turvy realm of Wonderland. Hop atop a king-sized Caterpillar and follow the White Rabbit into the nonsensical realm made famous in the beloved animated movie.  <p><strong>Down, Down, Down!</strong> <br/> Wind your way along a curving path surrounded by surreal sights, dazzling colors and madcap music as you retrace the steps of Alice and her adventures in Wonderland. Coast through wacky places like White Rabbit's House, Tulgey Wood and the Queen's Garden, and encounter such zany inhabitants as:</p>  <ul> <li>The Mad Hatter</li> <li>The March Hare</li> <li>Tweedledee and Tweedledum</li> <li>The Cheshire Cat</li> <li>A Talking Doorknob</li> <li>A garden of singing flowers featuring a Rocking-Horsefly, Tiger Lilly and Dandy-Lion</li> </ul>  <p>Down and down you go, until you come face-to-face with the dreaded Queen of Hearts. Vexed by a game of croquet, she proclaims, \"Off with their heads!\" but as you try to leave, the Queen's bumbling army of playing cards blocks your way. </p>  <p>Can you escape in time for a very 'unbirthday party' where you're the guest of honor?</p></p>\n        </div>\n    </div>\n</div>",
+      "links": {
+        "descriptionTemplate": {
+          "href": "http://api-qa.wdpro.disney.go.com:48084/content-service/environments/preview/description-templates/entity-card-1"
+        }
+      }
+    },
+    "entityCard2": {
+      "sections": {
+        "header": "A Disneyland Exclusive",
+        "readMore": "Alice in Wonderland is unique to Disneyland Park; you won't find the attraction anywhere else.",
+        "readAll": "Alice in Wonderland is unique to Disneyland Park; you won't find the attraction anywhere else. The famous Fantasyland attraction premiered on June 14, 1958, nearly 3 years after Disneyland Park opened to the public. It is based on Disney's animated feature film <em>Alice in Wonderland</em>, which was released July 28, 1951.  <p>In 1984, the painted cut-outs of the original attraction were replaced with more lively three-dimensional sculpted characters. New lighting and special effects were also added. After 50 years, Alice in Wonderland continues to be a favorite stop in Fantasyland for both children and adults.</p>"
+      },
+      "media": {
+        "media1": {
+          "alt": "On this classic Fantasyland attraction in Disneyland park, get a peek at the Cheshire Cat...before he disappears",
+          "transcodeTemplate": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/attractions/disneyland/alice-in-wonderland/alice-in-wonderland-02.jpg?19042013111930",
+          "url": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/attractions/disneyland/alice-in-wonderland/alice-in-wonderland-02.jpg?19042013111930",
+          "title": "Alice in Wonderland",
+          "type": "jpg"
+        }
+      },
+      "descriptionTemplate": {
+        "id": "entity-card-1",
+        "content": "<div class=\"htmlContainer heroBlock\" data-cmsid=\"{{parameters}}\">\n    <img src=\"{{media1.uri}}\" alt=\"{{media1.alt}}\"/>\n    <div class=\"heroRight\">\n        <h3>{{header}}</h3>\n        <div class=\"heroData\" data-widget=\"readMoreLink\" data-readmoretranslation=\"Read More\" data-readlesstranslation=\"Show Less\" data-maxlength=\"240\">\n            <p>{{readAll}}</p>\n        </div>\n    </div>\n</div>",
+        "links": {
+          "self": {
+            "href": "http://api-qa.wdpro.disney.go.com:48084/content-service/environments/preview/description-templates/entity-card-1"
+          }
+        }
+      },
+      "id": "",
+      "type": "webDescription",
+      "text": "<div class=\"htmlContainer heroBlock\" data-cmsid=\"\">\n    <img src=\"https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/attractions/disneyland/alice-in-wonderland/alice-in-wonderland-02.jpg?19042013111930\" alt=\"On this classic Fantasyland attraction in Disneyland park, get a peek at the Cheshire Cat...before he disappears\"/>\n    <div class=\"heroRight\">\n        <h3>A Disneyland Exclusive</h3>\n        <div class=\"heroData\" data-widget=\"readMoreLink\" data-readmoretranslation=\"Read More\" data-readlesstranslation=\"Show Less\" data-maxlength=\"240\">\n            <p>Alice in Wonderland is unique to Disneyland Park; you won't find the attraction anywhere else. The famous Fantasyland attraction premiered on June 14, 1958, nearly 3 years after Disneyland Park opened to the public. It is based on Disney's animated feature film <em>Alice in Wonderland</em>, which was released July 28, 1951.  <p>In 1984, the painted cut-outs of the original attraction were replaced with more lively three-dimensional sculpted characters. New lighting and special effects were also added. After 50 years, Alice in Wonderland continues to be a favorite stop in Fantasyland for both children and adults.</p></p>\n        </div>\n    </div>\n</div>",
+      "links": {
+        "descriptionTemplate": {
+          "href": "http://api-qa.wdpro.disney.go.com:48084/content-service/environments/preview/description-templates/entity-card-1"
+        }
+      }
+    },
+    "entityCard3": {
+      "sections": {
+        "header": "Know Before You Go",
+        "body": "Alice in Wonderland may close intermittently to accommodate <a href=\"https://disneyland.disney.go.com/entertainment/disneyland/fireworks/\">fireworks</a> performances."
+      },
+      "media": {
+        "media1": {
+          "alt": "A child sits on his father's shoulders and looks in wonder at the fantastic Disneyland fireworks",
+          "transcodeTemplate": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/entertainment/disneyland/fireworks/fireworks-00.jpg?17052013122404",
+          "url": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/entertainment/disneyland/fireworks/fireworks-00.jpg?17052013122404",
+          "title": "Fireworks",
+          "type": "jpg"
+        }
+      },
+      "descriptionTemplate": {
+        "id": "entity-card-header-body-media",
+        "content": "<div class=\"htmlContainer heroBlock\" data-cmsid=\"{{parameters}}\">\n<img src=\"{{media1.uri}}\" alt=\"{{media1.alt}}\"/>\n<div class=\"heroRight\">\n<h3>{{header}}</h3>\n<div class=\"heroData\">\n<p>{{body}}</p>\n</div>\n</div>\n</div>",
+        "links": {
+          "self": {
+            "href": "http://api-qa.wdpro.disney.go.com:48084/content-service/environments/preview/description-templates/entity-card-header-body-media"
+          }
+        }
+      },
+      "id": "",
+      "type": "webDescription",
+      "text": "<div class=\"htmlContainer heroBlock\" data-cmsid=\"\">\n<img src=\"https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/entertainment/disneyland/fireworks/fireworks-00.jpg?17052013122404\" alt=\"A child sits on his father's shoulders and looks in wonder at the fantastic Disneyland fireworks\"/>\n<div class=\"heroRight\">\n<h3>Know Before You Go</h3>\n<div class=\"heroData\">\n<p>Alice in Wonderland may close intermittently to accommodate <a href=\"https://disneyland.disney.go.com/entertainment/disneyland/fireworks/\">fireworks</a> performances.</p>\n</div>\n</div>\n</div>",
+      "links": {
+        "descriptionTemplate": {
+          "href": "http://api-qa.wdpro.disney.go.com:48084/content-service/environments/preview/description-templates/entity-card-header-body-media"
+        }
+      }
+    }
+  },
+  "alternateIdentifiers": {
+    "oneSource": {
+      "value": "367495"
+    },
+    "urlFriendly": {
+      "value": "alice-in-wonderland"
+    }
+  },
+  "quickLink": false,
+  "media": {
+    "finderDetailMobileHero": {
+      "alt": "A family of 4 rides inside a giant caterpillar through the Alice in Wonderland attraction",
+      "transcodeTemplate": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/attractions/disneyland/alice-in-wonderland/alice-in-wonderland-00.jpg?18042013045605",
+      "url": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/720/405/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/attractions/disneyland/alice-in-wonderland/alice-in-wonderland-00.jpg?18042013045605",
+      "title": "Alice in Wonderland",
+      "type": "jpg"
+    },
+    "finderDetailNarrowHero": {
+      "alt": "A family of 4 rides inside a giant caterpillar through the Alice in Wonderland attraction",
+      "transcodeTemplate": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/attractions/disneyland/alice-in-wonderland/alice-in-wonderland-00.jpg?18042013045605",
+      "url": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/630/354/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/attractions/disneyland/alice-in-wonderland/alice-in-wonderland-00.jpg?18042013045605",
+      "title": "Alice in Wonderland",
+      "type": "jpg"
+    },
+    "finderListMobileSquare": {
+      "alt": "A family of 4 rides inside a giant caterpillar through the Alice in Wonderland attraction.",
+      "transcodeTemplate": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/attractions/disneyland/alice-in-wonderland/alice-in-wonderland-00-sq.jpg?18042013045544",
+      "url": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/125/125/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/attractions/disneyland/alice-in-wonderland/alice-in-wonderland-00-sq.jpg?18042013045544",
+      "title": "Alice in Wonderland",
+      "type": "jpg"
+    },
+    "mapBubbleThumbLarge": {
+      "alt": "A family of 4 rides inside a giant caterpillar through the Alice in Wonderland attraction.",
+      "transcodeTemplate": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/attractions/disneyland/alice-in-wonderland/alice-in-wonderland-00-sq.jpg?18042013045544",
+      "url": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/90/90/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/attractions/disneyland/alice-in-wonderland/alice-in-wonderland-00-sq.jpg?18042013045544",
+      "title": "Alice in Wonderland",
+      "type": "jpg"
+    },
+    "finderStandardThumb": {
+      "alt": "A family of 4 rides inside a giant caterpillar through the Alice in Wonderland attraction",
+      "transcodeTemplate": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/attractions/disneyland/alice-in-wonderland/alice-in-wonderland-00.jpg?18042013045605",
+      "url": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/170/96/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/attractions/disneyland/alice-in-wonderland/alice-in-wonderland-00.jpg?18042013045605",
+      "title": "Alice in Wonderland",
+      "type": "jpg"
+    },
+    "mapBubbleThumbSmall": {
+      "alt": "A family of 4 rides inside a giant caterpillar through the Alice in Wonderland attraction.",
+      "transcodeTemplate": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/{width}/{height}/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/attractions/disneyland/alice-in-wonderland/alice-in-wonderland-00-sq.jpg?18042013045544",
+      "url": "https://secure.parksandresorts.wdpromedia.com/resize/mwImage/1/45/45/75/wdpromedia.disney.go.com/media/wdpro-assets/dlr/parks-and-tickets/attractions/disneyland/alice-in-wonderland/alice-in-wonderland-00-sq.jpg?18042013045544",
+      "title": "Alice in Wonderland",
+      "type": "jpg"
+    }
+  },
+  "facets": {},
+  "keywords": "na",
+  "name": "",
+  "id": "367495;type=oneSource",
+  "type": "Attraction",
+  "displayName": "",
+  "links": {
+    "self": {
+      "href": "http://api-qa.wdpro.disney.go.com:48084/content-service/environments/preview/entities/db0a0f0f-d1ef-4246-9e05-7b13918b85ad;type=canonicalHandle"
+    }
+  }
+}
+
+}
